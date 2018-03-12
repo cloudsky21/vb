@@ -1,0 +1,14 @@
+C:\Users\requi\source\repos\connectApp\connectApp\bin\Debug\connectApp.exe.config
+C:\Users\requi\source\repos\connectApp\connectApp\bin\Debug\connectApp.exe
+C:\Users\requi\source\repos\connectApp\connectApp\bin\Debug\connectApp.pdb
+C:\Users\requi\source\repos\connectApp\connectApp\bin\Debug\connectApp.xml
+C:\Users\requi\source\repos\connectApp\connectApp\bin\Debug\MySql.Data.dll
+C:\Users\requi\source\repos\connectApp\connectApp\bin\Debug\MySql.Data.xml
+C:\Users\requi\source\repos\connectApp\connectApp\obj\Debug\connectApp.vbprojResolveAssemblyReference.cache
+C:\Users\requi\source\repos\connectApp\connectApp\obj\Debug\connectApp.Form1.resources
+C:\Users\requi\source\repos\connectApp\connectApp\obj\Debug\connectApp.Resources.resources
+C:\Users\requi\source\repos\connectApp\connectApp\obj\Debug\connectApp.vbproj.GenerateResource.Cache
+C:\Users\requi\source\repos\connectApp\connectApp\obj\Debug\connectApp.vbproj.CoreCompileInputs.cache
+C:\Users\requi\source\repos\connectApp\connectApp\obj\Debug\connectApp.exe
+C:\Users\requi\source\repos\connectApp\connectApp\obj\Debug\connectApp.xml
+C:\Users\requi\source\repos\connectApp\connectApp\obj\Debug\connectApp.pdb
